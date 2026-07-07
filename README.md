@@ -1,5 +1,9 @@
 # AWS CLOUD COMPUTING INTERNSHIP REPORT
 
+<p align="center">
+  <img src="./z7671137971470_e2150703060855bd882a03bd7e50b22d.jpg" alt="Student Photo" width="220"/>
+</p>
+
 ## Student Information
 
 * **Full Name:** Le Tuan Kiet
