@@ -1,0 +1,139 @@
+# SELF-ASSESSMENT
+
+## 1. Overview
+
+This section summarizes my self-assessment after completing the AWS Cloud Computing internship and participating in the AWS Stock Analyzer project.
+
+During the internship, I learned basic AWS cloud concepts, reviewed several AWS services, and participated in the final project as a QA Tester.
+My main contribution was not advanced system implementation, but manual testing and project review support.
+
+Through this process, I gained a better understanding of AWS services, cloud-based application architecture, and the role of testing in a software project.
+
+---
+
+## 2. Knowledge Gained
+
+During the internship, I learned the basic purpose of several AWS services, including IAM, EC2, S3, VPC, Security Groups, Lambda, API Gateway, SQS, DynamoDB, CloudWatch, and Amazon Bedrock.
+
+In the first weeks, I mainly followed tutorials and reviewed learning materials to understand AWS fundamentals.
+From Week 7, I started connecting this knowledge with the AWS Stock Analyzer project.
+
+The most important knowledge I gained includes:
+
+* Basic cloud computing concepts.
+* The role of AWS services in a cloud application.
+* Basic serverless architecture.
+* Frontend and backend communication through APIs.
+* Data storage using Amazon S3 and DynamoDB.
+* Monitoring and logging using Amazon CloudWatch.
+* The importance of testing before final project submission.
+
+Although my understanding is still at a beginner level, I can now read and understand a basic AWS architecture diagram more clearly than before.
+
+---
+
+## 3. Skills Improved
+
+### 3.1 AWS Basic Understanding
+
+I improved my ability to recognize common AWS services and understand their basic roles in a system.
+For example, I learned that S3 can be used for file storage, Lambda can run backend logic, API Gateway can expose APIs, and CloudWatch can support monitoring.
+
+### 3.2 Manual Testing Skills
+
+As the QA Tester in the AWS Stock Analyzer project, I practiced basic manual testing activities, including:
+
+* Testing frontend interface behavior.
+* Testing backend API responses.
+* Checking valid and invalid input cases.
+* Checking frontend-backend integration.
+* Recording testing observations.
+* Giving feedback to the team.
+
+This helped me understand that testing is not only about finding errors, but also about checking whether the system works as expected from the user’s perspective.
+
+### 3.3 Documentation Skills
+
+I also improved my documentation skills by writing weekly worklogs, project proposal content, posted blog summaries, and testing-related notes.
+This helped me organize my learning process and present my work more clearly.
+
+---
+
+## 4. My Contribution to the Project
+
+In the AWS Stock Analyzer project, my assigned role was QA Tester.
+
+My main contributions included:
+
+* Understanding the project features and testing scope.
+* Preparing basic testing directions.
+* Testing backend API behavior.
+* Testing frontend interface behavior.
+* Testing input validation cases.
+* Checking frontend-backend integration.
+* Recording final testing observations.
+* Supporting the team during final project review.
+
+My contribution was mainly focused on manual testing.
+I did not claim to build the whole AWS infrastructure alone.
+Instead, I supported the team by checking the system behavior and helping identify issues before final submission.
+
+---
+
+## 5. Difficulties and Limitations
+
+During the internship, I faced several difficulties.
+
+First, AWS has many services, and it was difficult to understand all of them deeply in a short time.
+Some services were easy to understand at a basic level, but harder to apply in a complete project.
+
+Second, from Week 3 to Week 5, I mainly watched YouTube tutorials and read materials, so I did not have much hands-on practice during that period.
+Because of that, my practical experience was still limited.
+
+Third, as a QA Tester, I mainly performed manual testing.
+I did not use advanced automation testing tools or write complex test scripts.
+
+These limitations showed me that I still need more practice with AWS implementation, backend testing, and automated testing in the future.
+
+---
+
+## 6. What I Did Well
+
+I think I did well in the following areas:
+
+* I followed the internship learning process and recorded my weekly progress.
+* I reviewed AWS basic concepts and connected them with the final project.
+* I completed my assigned QA testing tasks for the AWS Stock Analyzer project.
+* I tested the main application flow manually.
+* I documented my work honestly without overstating my experience.
+* I improved my understanding of how a cloud-based application is structured.
+
+Although my technical level is still basic, I was able to complete my assigned role and contribute to the project review process.
+
+---
+
+## 7. What I Need to Improve
+
+After completing this internship, I realized that I need to improve in several areas:
+
+* Practice AWS services more through hands-on labs.
+* Learn more about backend API testing.
+* Improve my understanding of serverless deployment.
+* Learn basic automation testing tools.
+* Improve my ability to read logs and troubleshoot cloud application issues.
+* Practice writing clearer test cases and bug reports.
+
+These improvements will help me become more confident in future software development and cloud computing projects.
+
+---
+
+## 8. Overall Reflection
+
+Overall, this internship helped me gain a basic but useful understanding of AWS Cloud Computing.
+I learned how different AWS services can support a cloud-based application and how a project can be divided into frontend, backend, database, processing, AI analysis, and monitoring layers.
+
+Through the AWS Stock Analyzer project, I also understood the importance of the QA Tester role.
+Testing helped me review the system from the user’s perspective and check whether the main features worked as expected.
+
+Although my experience is still at a beginner level, I completed my assigned testing responsibilities and learned many useful concepts for future projects.
+This internship gave me a clearer direction for improving my cloud computing, software testing, and project documentation skills.
