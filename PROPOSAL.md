@@ -60,7 +60,7 @@ The solution significantly reduces the time traders spend collecting and summari
 
 The system is designed as a serverless architecture divided into independent layers: frontend, ingestion, processing, AI analysis, database, and monitoring.
 
-![Stock Alerts System Architecture](./images/2-Proposal/stock-alerts-architecture.png)
+![Stock Alerts System Architecture](./Structure_AWS_v1-Page-2.drawio.png)
 
 #### AWS Services Used
 
