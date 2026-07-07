@@ -1,67 +1,49 @@
-# WORKLOG
+# AWS INTERNSHIP WORKLOG
 
-This worklog documents the weekly activities, training tasks, and project milestones completed by **Le Tuan Kiet** during the internship program.
+## Student Information
 
-The internship focused on learning AWS cloud services, understanding cloud infrastructure, practicing basic deployment tasks, and participating in the AWS Stock Analyzer project with the role of **QA Tester**.
+* **Full Name:** Le Tuan Kiet
+* **Student ID:** 2280601627
+* **Major:** Information Systems
+* **Internship Topic:** AWS Cloud Computing
+* **Final Project:** AWS Stock Analyzer
+* **Project Role:** QA Tester
 
-## Weekly Progress
+## Worklog Overview
 
-### Week 1 - 13/04/2026
-**Topic:** Cloud Computing and AWS basic setup.  
-**Activities:** Learned the internship environment, basic cloud computing concepts, and AWS account setup.  
-**Result:** Understood how to access AWS Console and perform basic AWS account configuration.
+This repository records my weekly internship learning process and project work related to AWS Cloud Computing.
+In the first weeks, I focused on learning basic AWS concepts through guided tutorials, YouTube videos, and AWS Study Group materials.
+From Week 7, my team started the final project named AWS Stock Analyzer, and I took the role of QA Tester.
 
-### Week 2 - 20/04/2026
-**Topic:** AWS Infrastructure, Billing, and Budget.  
-**Activities:** Studied AWS Global Infrastructure, Billing, Budget, and cost monitoring.  
-**Result:** Understood how to track AWS costs and set budget alerts to prevent unexpected charges.
+My worklog is written honestly based on my actual learning process.
+Some weeks focused more on watching tutorials and reading documents, while the later weeks focused on manual testing tasks for the final project.
 
-### Week 3 - 27/04/2026
-**Topic:** IAM and AWS Security.  
-**Activities:** Practiced managing IAM Users, Groups, Roles, and Policies.  
-**Result:** Understood basic AWS access control and the principle of least privilege.
+## Weekly Worklog List
 
-### Week 4 - 04/05/2026
-**Topic:** AWS Networking.  
-**Activities:** Studied VPC, Subnet, and IP Addressing.  
-**Result:** Understood the basic structure of AWS networking and how resources are organized inside a VPC.
+| Week    | Main Topic                                                           | Worklog File                               |
+| ------- | -------------------------------------------------------------------- | ------------------------------------------ |
+| Week 1  | Getting Familiar with Cloud Computing and AWS Basic Setup            | [WEEK-01-WORKLOG.md](./WEEK-01-WORKLOG.md) |
+| Week 2  | Practicing Basic AWS Services Through Guided Tutorials               | [WEEK-02-WORKLOG.md](./WEEK-02-WORKLOG.md) |
+| Week 3  | Learning AWS Networking and Security Concepts                        | [WEEK-03-WORKLOG.md](./WEEK-03-WORKLOG.md) |
+| Week 4  | Studying AWS Compute, Storage, and Monitoring Services               | [WEEK-04-WORKLOG.md](./WEEK-04-WORKLOG.md) |
+| Week 5  | Reviewing AWS Application Architecture and Basic Deployment Concepts | [WEEK-05-WORKLOG.md](./WEEK-05-WORKLOG.md) |
+| Week 6  | Reviewing AWS Fundamentals and Preparing Project Direction           | [WEEK-06-WORKLOG.md](./WEEK-06-WORKLOG.md) |
+| Week 7  | Starting the AWS Stock Analyzer Project as a QA Tester               | [WEEK-07-WORKLOG.md](./WEEK-07-WORKLOG.md) |
+| Week 8  | Preparing Test Cases for the AWS Stock Analyzer Project              | [WEEK-08-WORKLOG.md](./WEEK-08-WORKLOG.md) |
+| Week 9  | Testing Backend API Behavior for the AWS Stock Analyzer Project      | [WEEK-09-WORKLOG.md](./WEEK-09-WORKLOG.md) |
+| Week 10 | Testing Frontend Interface for the AWS Stock Analyzer Project        | [WEEK-10-WORKLOG.md](./WEEK-10-WORKLOG.md) |
+| Week 11 | Integration Testing for the AWS Stock Analyzer Project               | [WEEK-11-WORKLOG.md](./WEEK-11-WORKLOG.md) |
+| Week 12 | Completing Testing Tasks for the AWS Stock Analyzer Project          | [WEEK-12-WORKLOG.md](./WEEK-12-WORKLOG.md) |
 
-### Week 5 - 11/05/2026
-**Topic:** Network Security and Connectivity.  
-**Activities:** Learned Security Groups, NACLs, Load Balancer, and VPN.  
-**Result:** Understood how to control network access and improve AWS system security.
+## Reference Sources
 
-### Week 6 - 18/05/2026
-**Topic:** EC2, S3, and CloudWatch Practice.  
-**Activities:** Practiced deploying a simple demo using EC2, storing files in S3, and monitoring with CloudWatch.  
-**Result:** Understood how to deploy basic AWS resources and check logs/metrics.
+* YouTube AWS learning playlist: https://www.youtube.com/playlist?list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x
+* AWS Study Group: https://000001.awsstudygroup.com/vi/
 
-### Week 7 - 25/05/2026
-**Topic:** AWS Project Deployment Process.  
-**Activities:** Studied how AWS services are configured and connected in a project workflow.  
-**Result:** Understood how different AWS services work together in a real system.
+## Summary
 
-### Week 8 - 01/06/2026
-**Topic:** Resource Management and Basic Troubleshooting.  
-**Activities:** Learned AWS resource management, security checking, and basic error identification.  
-**Result:** Improved understanding of how to monitor resources and identify operational issues.
+Through this internship period, I learned the basic concepts of AWS Cloud Computing and gradually understood how cloud services can support an application.
+In the final project, I participated as a QA Tester for the AWS Stock Analyzer project.
+My testing work mainly focused on manual testing, including backend API behavior, frontend interface checking, input validation, and frontend-backend integration.
 
-### Week 9 - 08/06/2026
-**Topic:** Final Project Architecture.  
-**Activities:** Studied the AWS Stock Analyzer architecture, project workflow, and team task allocation.  
-**Result:** Understood the system modules and prepared QA testing scope.
-
-### Week 10 - 15/06/2026
-**Topic:** Test Plan and Basic Functional Testing.  
-**Activities:** Created Test Plan, Test Cases, and Test Data. Tested Login, Register, Dashboard, and main user flows.  
-**Result:** Completed the first version of testing documents and recorded Pass/Blocked results.
-
-### Week 11 - 22/06/2026
-**Topic:** Frontend, Backend, and Performance Testing.  
-**Activities:** Cloned the GitHub repository, ran the project on localhost, tested Frontend mock screens, checked Console/Network, and measured Dashboard loading speed.  
-**Result:** Recorded testing results in Google Sheets and measured Dashboard loading time at around 0.97–1.02 seconds in local development.
-
-### Week 12 - 29/06/2026
-**Topic:** Testing Summary and Report Preparation.  
-**Activities:** Summarized Test Cases, Performance Test, evidence, and testing status. Prepared internship report and demo materials.  
-**Result:** Completed testing documentation and prepared for retesting the updated backend/serverless version.
+Although my experience was still at a beginner level, this worklog helped me record my learning process, project participation, and testing responsibilities clearly.
