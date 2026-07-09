@@ -34,7 +34,7 @@ The purpose of this repository is to record my learning process, project partici
 | 1. Worklog              | Weekly internship worklog from Week 1 to Week 12                                   | [WORKLOG.md](./WORKLOG.md)                           |
 | 2. Proposal             | Project proposal for the AWS Stock Analyzer system                                 | [PROPOSAL.md](./PROPOSAL.md)                         |
 | 3. Posted Blogs         | Summary of reviewed AWS and testing learning materials                             | [POSTED-BLOGS.md](./POSTED-BLOGS.md)                 |
-| 4. Events Participated  | Summary of internship-related events, learning activities, and project discussions | [EVENTS-PARTICIPATED.md](./EVENTS-PARTICIPATED.md)   |
+| 4. Events Participated  | No formal events attended  | [EVENTS-PARTICIPATED.md](./EVENTS-PARTICIPATED.md)   |
 | 5. Workshop             | Summary of AWS workshops, guided tutorials, and practice sessions                  | [WORKSHOP.md](./WORKSHOP.md)                         |
 | 6. Self-Assessment      | Personal reflection and self-assessment after the internship                       | [SELF-ASSESSMENT.md](./SELF-ASSESSMENT.md)           |
 | 7. Sharing and Feedback | Summary of project sharing and feedback process                                    | [SHARING-AND-FEEDBACK.md](./SHARING-AND-FEEDBACK.md) |
@@ -133,7 +133,7 @@ I took the role of QA Tester and focused on manual testing tasks, including back
 | Project Proposal     | Completed       |
 | Architecture Diagram | Added           |
 | Posted Blogs         | Completed       |
-| Events Participated  | To be completed |
+| Events Participated  |Completed - No formal events attended |
 | Workshop             | To be completed |
 | Self-Assessment      | Completed       |
 | Sharing and Feedback | Completed       |
